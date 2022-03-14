@@ -7,6 +7,7 @@ Created on Sat March 12 08:30:00 2022
 import pickle
 
 import nltk
+nltk.download('omw-1.4')
 import numpy as np
 import pandas as pd
 import streamlit as st
